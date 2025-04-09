@@ -1,0 +1,10 @@
+table,th,td{border:1px solid black;}
+th:first-child{background-color: lightblue;}
+tr:first-child >th, tr:nth-child(odd){background-color: lightgray;}
+tr:nth-child(2),tr:nth-child(4){background-color: rgb(201, 233, 151);
+  &:hover  {background-color: yellow;}
+}
+
+tr:nth-child(3),tr:nth-child(5){
+    &:hover{background-color: yellow;}
+}

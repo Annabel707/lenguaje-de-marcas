@@ -1,0 +1,30 @@
+/*Selector universal*/
+*{color:blue; }
+
+/*Selector de etiqueta*/
+h1 {font-size: 50px; color:red;}
+
+/*Selector de clase*/
+.ClaseUno {background-color: gray;}
+.ClaseDos{background-color: yellow;}
+
+/*Selector de identificador*/
+#parrafo1 {border: black solid;}
+#parrafo2 {border:red solid 5px; }
+
+/*Selector descendiente*/
+ul li {background-color: aquamarine;}
+
+/*Agrupación de selectores*/
+h2,h3 {border:green solid}
+
+#parrafo1,#parrafo2 {text-decoration:underline rebeccapurple;}
+
+/*Selector hijo*/
+p>a {color:red}
+
+/*Selector adyacente o hermano*/
+p+div{background-color: chocolate;}
+
+/*Selector de atributos*/
+a[target="_self"]{color:violet;}
