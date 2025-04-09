@@ -1,0 +1,6 @@
+.caja{margin:10px;border:3px solid black;padding:10px;background-color:  lightblue; width: 150px;}
+.bloque{display:block;background-color: lightgreen;}
+.linea{display: inline;background-color: coral;width: 500px;height: 500px;}
+.linea_bloque{display:inline-block;width: 300px; height: 300px;}
+h1{border:solid 3px chocolate;background-color: gray;width: 300px;}
+#c2{visibility: hidden;}/*display:none;*/
