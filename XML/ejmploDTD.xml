@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ciudad SYSTEM "fichero.dtd">
+<ciudad>
+    <persona>
+        <nombre>Maria</nombre>
+        <edad>20</edad>
+        <telefono>4343</telefono>
+    </persona>
+    <persona>
+        <nombre>Jose</nombre>
+        <edad>30</edad>
+    </persona>
+    <persona>
+        <nombre>Pedro</nombre>
+        <edad>20</edad>
+        <telefono>499934</telefono>
+    </persona>
+</ciudad>
+<!--esto
+es un comentario-->
