@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pedido SYSTEM "ej2.dtd">
+<pedido>
+    <cliente>  </cliente>
+    <fecha>     </fecha>
+    <producto>
+        <nombre>     </nombre>
+        <cantidad> </cantidad>
+        <precio> </precio>
+    </producto>
+</pedido>

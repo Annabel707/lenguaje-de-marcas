@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE correo SYSTEM "ej1.dtd">
+
+<correo>
+<remitente>
+    <nombre>     Paco     </nombre>
+    <direccion>   ana@gmail.com    </direccion>
+</remitente>
+<destinatario>
+    <nombre>       Ana   </nombre>
+    <direccion>     paco@gmail.com  </direccion>
+</destinatario>
+<asunto>Trabajo </asunto>
+<mensaje>Hola, ¿Ana mañana vienes a trabajar?</mensaje>
+
+
+</correo>

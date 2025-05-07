@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE productos SYSTEM "ej3.dtd">
+<productos>
+    <producto>
+    <nombre> </nombre>
+    <descripcion></descripcion>
+    <precio></precio>
+    <caracteristicas>
+        <nombre></nombre>
+        <valor></valor>
+    </caracteristicas>
+</producto>
+<producto>
+    <nombre> </nombre>
+    <descripcion></descripcion>
+    <precio></precio>
+    <caracteristicas>
+        <nombre></nombre>
+        <valor></valor>
+    </caracteristicas>
+</producto>
+</productos>

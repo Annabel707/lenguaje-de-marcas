@@ -1,0 +1,16 @@
+<!ELEMENT software (programa+)>
+<!ELEMENT programa (titulo,idioma,precio,categoria,descripcion,departamentos+,web?,caratula?)>
+<!ATTLIST programa codigo CDATA #REQUIRED>
+<!ATTLIST programa version CDATA #REQUIRED>
+<!ATTLIST programa año CDATA #IMPLIED>
+<!ATTLIST programa sistema CDATA "windows">
+<!ELEMENT titulo (#PCDATA)>
+<!ELEMENT idioma (español|ingles)>
+<!ELEMENT español EMPTY>
+<!ELEMENT ingles EMPTY>
+<!ELEMENT precio (#PCDATA)>
+<!ELEMENT categoria (#PCDATA)>
+<!ELEMENT descripcion (#PCDATA)>
+<!ELEMENT departamentos (#PCDATA)>
+<!ELEMENT web (#PCDATA)>
+<!ELEMENT caratula (#PCDATA)>

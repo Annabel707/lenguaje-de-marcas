@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pacientes SYSTEM "ej4.dtd">
+<pacientes>
+    <paciente alergias="si" cuarentena="si">
+        <nombre></nombre>
+        <fecha></fecha>
+        <detalles>
+            <diagnostico></diagnostico>
+            <tratamiento></tratamiento>
+        </detalles>
+    </paciente>
+</pacientes>

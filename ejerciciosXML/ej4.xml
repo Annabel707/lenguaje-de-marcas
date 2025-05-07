@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE coleccion SYSTEM "ej4.dtd">
+<coleccion>
+    <albúm>
+    <fotografías>
+        <lugar> </lugar>
+        <fecha>
+            <dia></dia>
+            <hora></hora>
+        </fecha>
+        <tipo></tipo>
+        <personas></personas>
+        <monumento></monumento>
+    </fotografías>
+    <fotografías>
+        <lugar> </lugar>
+        <fecha>
+            <dia></dia>
+            <hora></hora>
+        </fecha>
+        <tipo></tipo>
+        <personas></personas>
+        <monumento></monumento>
+    </fotografías>
+    <fotografías>
+        <lugar> </lugar>
+        <fecha>
+            <dia></dia>
+            <hora></hora>
+        </fecha>
+        <tipo></tipo>
+        <personas></personas>
+        <monumento></monumento>
+    </fotografías>
+    <fotografías>
+        <lugar> </lugar>
+        <fecha>
+            <dia></dia>
+            <hora></hora>
+        </fecha>
+        <tipo></tipo>
+        <personas></personas>
+        <monumento></monumento>
+    </fotografías>
+    </albúm>
+    <albúm>
+    <fotografías>
+        <lugar> </lugar>
+        <fecha>
+            <dia></dia>
+            <hora></hora>
+        </fecha>
+        <tipo></tipo>
+        <personas></personas>
+        <monumento></monumento>
+    </fotografías>
+    <fotografías>
+        <lugar> </lugar>
+        <fecha>
+            <dia></dia>
+            <hora></hora>
+        </fecha>
+        <tipo></tipo>
+        <personas></personas>
+        <monumento></monumento>
+    </fotografías>
+    <fotografías>
+        <lugar> </lugar>
+        <fecha>
+            <dia></dia>
+            <hora></hora>
+        </fecha>
+        <tipo></tipo>
+        <personas></personas>
+        <monumento></monumento>
+    </fotografías>
+    <fotografías>
+        <lugar> </lugar>
+        <fecha>
+            <dia></dia>
+            <hora></hora>
+        </fecha>
+        <tipo></tipo>
+        <personas></personas>
+        <monumento></monumento>
+    </fotografías>
+    </albúm>
+</coleccion>

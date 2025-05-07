@@ -1,0 +1,14 @@
+<!ELEMENT pedidos (pedido*)>
+<!ELEMENT pedido (cliente,nombre,direccion,productos+)>
+<!ATTLIST pedido id ID #REQUIRED>
+<!ELEMENT cliente (#PCDATA)>
+<!ELEMENT nombre (#PCDATA)>
+<!ELEMENT direccion (calle,ciudad,cp)>
+<!ELEMENT calle (#PCDATA)>
+<!ELEMENT ciudad (#PCDATA)>
+<!ELEMENT cp (#PCDATA)>
+<!ELEMENT productos (producto,precio,cantidad)>
+<!ELEMENT producto (#PCDATA)>
+<!ELEMENT precio (#PCDATA)>
+<!ELEMENT cantidad (#PCDATA)>
+<!ATTLIST productos id ID #REQUIRED>

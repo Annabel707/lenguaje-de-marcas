@@ -1,0 +1,8 @@
+<!ELEMENT correo (remitente*,destinatario*,asunto*,mensaje*)>
+<!ELEMENT remitente (nombre,direccion)>
+<!ELEMENT destinatario (nombre,direccion)>
+
+<!ELEMENT nombre (#PCDATA)>
+<!ELEMENT direccion (#PCDATA)>
+<!ELEMENT asunto (#PCDATA)>
+<!ELEMENT mensaje (#PCDATA)>

@@ -1,0 +1,7 @@
+<!ELEMENT pedido (cliente,fecha,producto)>
+<!ELEMENT cliente (#PCDATA)>
+<!ELEMENT fecha (#PCDATA)>
+<!ELEMENT producto (nombre,cantidad,precio)>
+<!ELEMENT nombre (#PCDATA)>
+<!ELEMENT cantidad (#PCDATA)>
+<!ELEMENT precio (#PCDATA)>

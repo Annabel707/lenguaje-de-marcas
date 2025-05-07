@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE listacursos SYSTEM "ej6.dtd">
+<listacursos>
+    <curso id="c12">
+        <profesores>
+            <dni></dni>
+            <nombre></nombre>
+            <apellido></apellido>
+            <segundoapellido></segundoapellido>
+        </profesores>
+        <contenido>
+            <descripcion></descripcion>
+            <horas></horas>
+            <creditos></creditos>
+        </contenido>
+    </curso>
+</listacursos>

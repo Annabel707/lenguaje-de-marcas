@@ -1,0 +1,10 @@
+<!ELEMENT coleccion (albúm*)>
+<!ELEMENT albúm (fotografías*)>
+<!ELEMENT fotografías (lugar,fecha,tipo,personas,monumento?)>
+<!ELEMENT lugar (#PCDATA)>
+<!ELEMENT fecha (dia,hora)>
+<!ELEMENT dia (#PCDATA)>
+<!ELEMENT hora (#PCDATA)>
+<!ELEMENT tipo (#PCDATA)>
+<!ELEMENT personas (#PCDATA)>
+<!ELEMENT monumento (#PCDATA)>

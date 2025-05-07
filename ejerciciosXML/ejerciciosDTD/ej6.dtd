@@ -1,0 +1,12 @@
+<!ELEMENT listacursos (curso+)>
+<!ELEMENT curso (profesores+,contenido)>
+<!ATTLIST curso id ID #REQUIRED>
+<!ELEMENT profesores (dni,nombre,apellido,segundoapellido?)>
+<!ELEMENT dni (#PCDATA)>
+<!ELEMENT nombre (#PCDATA)>
+<!ELEMENT apellido (#PCDATA)>
+<!ELEMENT segundoapellido (#PCDATA)>
+<!ELEMENT contenido (descripcion,horas,creditos?)>
+<!ELEMENT descripcion (#PCDATA)>
+<!ELEMENT horas (#PCDATA)>
+<!ELEMENT creditos (#PCDATA)>

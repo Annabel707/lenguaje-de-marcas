@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dispositivos SYSTEM "ej5.dtd">
+<dispositivos>
+<dispositivo>
+    <nombre></nombre>
+    <precio></precio>
+    <stock/>
+</dispositivo>
+</dispositivos>
