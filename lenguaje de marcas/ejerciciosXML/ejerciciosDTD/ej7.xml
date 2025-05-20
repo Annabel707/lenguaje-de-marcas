@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE software SYSTEM "ej7.dtd">
+<software>
+    <programa codigo="1" version="45" año="2005" sistema="linux" > 
+        <titulo></titulo>
+       <idioma> <español /> </idioma>
+        <precio></precio>
+        <categoria></categoria>
+        <descripcion></descripcion>
+        <departamentos></departamentos>
+        <web></web>
+        <caratula></caratula>
+    </programa>
+</software>

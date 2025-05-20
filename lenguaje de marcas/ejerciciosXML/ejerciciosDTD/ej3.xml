@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE proyectos SYSTEM "ej3.dtd">
+<proyectos>
+    <proyecto prioritario="si">
+        <nombre></nombre>
+        <fecha></fecha>
+        <duracion></duracion>
+        <empleados>
+            <empleado></empleado>
+            <rol></rol>
+        </empleados>
+    </proyecto>
+</proyectos>

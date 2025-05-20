@@ -1,0 +1,8 @@
+<!ELEMENT evento (titulo,fecha,ubicacion,pausa,conferenciante)>
+<!ELEMENT titulo (#PCDATA)>
+<!ELEMENT fecha (#PCDATA)>
+<!ELEMENT ubicacion (#PCDATA)>
+<!ELEMENT pausa (nullchar)>
+<!ELEMENT conferenciante (#PCDATA)>
+<!ELEMENT nombre (#PCDATA)>
+<!ELEMENT tema (#PCDATA)>

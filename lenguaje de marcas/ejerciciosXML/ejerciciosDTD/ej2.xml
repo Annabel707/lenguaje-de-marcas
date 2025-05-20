@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE canciones SYSTEM "ej2.dtd">
+<canciones>
+    <cancion genero="rock">
+       <titulo></titulo>
+       <duracion></duracion>
+       <nombre></nombre>
+       <album></album>
+       <año></año>
+    </cancion>
+
+    <cancion genero="pop">
+        <titulo></titulo>
+        <duracion></duracion>
+        <nombre></nombre>
+        <album></album>
+        <compañia></compañia>
+     </cancion>
+ 
+</canciones>

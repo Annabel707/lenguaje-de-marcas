@@ -1,0 +1,5 @@
+<!ELEMENT ciudad (persona*)>
+<!ELEMENT persona (nombre,edad,telefono?)>
+<!ELEMENT nombre (#PCDATA)>
+<!ELEMENT edad (#PCDATA)>
+<!ELEMENT telefono (#PCDATA)>

@@ -1,0 +1,7 @@
+ul{list-style: none;}
+li{width: 150px;background-color: blue;text-align: center;margin:2px;}
+li:hover {border:1px solid red;}
+
+
+a{color:white;text-decoration: none; }
+a:focus{border:2px solid red;}

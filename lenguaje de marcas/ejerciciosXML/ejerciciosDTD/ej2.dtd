@@ -1,0 +1,9 @@
+<!ELEMENT canciones (cancion*)>
+<!ELEMENT cancion (titulo,duracion,nombre,album,(año|compañia))>
+<!ELEMENT titulo (#PCDATA)>
+<!ELEMENT duracion (#PCDATA)>
+<!ELEMENT nombre (#PCDATA)>
+<!ELEMENT album (#PCDATA)>
+<!ELEMENT año (#PCDATA)>
+<!ELEMENT compañia (#PCDATA)>
+<!ATTLIST cancion genero CDATA #REQUIRED>

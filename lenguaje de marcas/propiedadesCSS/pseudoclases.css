@@ -1,0 +1,34 @@
+body{width: 30%;}
+
+ul li:first-child{
+    color:red;
+}
+
+ul li:last-child{
+    color:green;
+}
+
+ul li:nth-child(2){
+    color:chocolate;
+}
+
+ul li:nth-child(even){
+    color:blueviolet;
+}
+
+ul li:nth-child(odd){
+    color:blueviolet;
+}
+
+a:link{color:blue;}
+a:visited{color:red;}
+a:hover{background-color: yellow;}
+a#enlace:hover{background-color: violet;}
+input[type="submit"]:active{background-color: lightcoral;}
+input[type="text"]:focus {background-color: gray;}
+
+li::first-letter{text-transform: uppercase;}
+.parrafo::first-line{text-transform: uppercase;font-weight: bold;}
+
+.parrafo::before{content:"-";}
+.parrafo::after{content:"-Esto es un párrafo";}

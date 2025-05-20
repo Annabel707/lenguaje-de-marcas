@@ -1,0 +1,9 @@
+<!ELEMENT proyectos (proyecto*)>
+<!ELEMENT proyecto (nombre,fecha,duracion,empleados?)>
+<!ELEMENT nombre (#PCDATA)>
+<!ELEMENT fecha (#PCDATA)>
+<!ELEMENT duracion (#PCDATA)>
+<!ATTLIST proyecto prioritario (si|no) #REQUIRED>
+<!ELEMENT empleados (empleado,rol)>
+<!ELEMENT empleado (#PCDATA)>
+<!ELEMENT rol (#PCDATA)>

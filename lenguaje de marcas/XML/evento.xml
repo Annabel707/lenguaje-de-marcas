@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE evento SYSTEM "evento.dtd">
+<evento>
+    <titulo>EVENTOS MALAGA</titulo>
+    <fecha>12/02/2026</fecha>
+    <ubicacion>MALAGA</ubicacion>
+    <pausa />
+    <conferenciante>
+        <nombre>Julian</nombre>
+        <tema></tema>
+    </conferenciante>
+    <pausa />
+    <conferenciante>
+        <nombre></nombre>
+        <tema></tema>
+    </conferenciante>
+</evento>

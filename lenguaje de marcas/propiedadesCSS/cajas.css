@@ -1,0 +1,16 @@
+body{
+    background-color: #f0f0f0;
+}
+
+.contenedor-externo{
+    background-color: lightblue;
+    padding: 20px;
+    margin:30px;
+}
+
+.caja{
+    background-color: lightgreen;
+    padding: 20px;
+    border:5px dotted black;
+    margin:30px;
+}

@@ -1,0 +1,6 @@
+*{box-sizing:border-box;}
+
+img{float:left; width: 100px;margin-right: 10px;}
+
+p{border:4px solid black; width: 150px;height:50px;padding:10px;font-weight: bold;margin:10px;float:left}
+#p5,#p6{clear:left;}

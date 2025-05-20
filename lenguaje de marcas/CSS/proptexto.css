@@ -1,0 +1,33 @@
+#p1 {
+    text-align: right;
+    color: RGB(255, 0, 0);
+    text-decoration: underline black;
+    word-spacing: 20px;
+}
+
+#p2 {
+    text-align: left;
+    color: blue;
+    letter-spacing: 10px;
+    text-decoration: overline;
+    line-height: 5rem;
+}
+
+#p3 {
+    text-align: center;
+    background-color: #00FF00;
+    letter-spacing: 5px;
+    text-transform: uppercase;
+}
+
+a {
+    text-decoration: none;
+}
+
+.texto-fijo {
+    line-height: 30px;
+}
+
+.texto-porcentaje {
+    line-height: 300%
+}

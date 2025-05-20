@@ -1,0 +1,9 @@
+<!ELEMENT pacientes (paciente*)>
+<!ELEMENT paciente (nombre,fecha,detalles)>
+<!ELEMENT nombre (#PCDATA)>
+<!ELEMENT fecha (#PCDATA)>
+<!ELEMENT detalles (diagnostico,tratamiento)>
+<!ELEMENT diagnostico (#PCDATA)>
+<!ELEMENT tratamiento (#PCDATA)>
+<!ATTLIST paciente alergias (si|no) #REQUIRED>
+<!ATTLIST paciente cuarentena (si|no) "no">
